@@ -12,5 +12,6 @@ def create_app(test_config=None):
 
 
 if __name__ == '__main__':
-    print('just for test')
     create_app()
+
+    print('just for test')
